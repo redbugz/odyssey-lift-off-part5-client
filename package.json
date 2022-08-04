@@ -48,7 +48,7 @@
     "apollo": "^2.30.2"
   },
   "engines":{
-    "npm":"8.5.0"
+    "node": "16"
    },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
